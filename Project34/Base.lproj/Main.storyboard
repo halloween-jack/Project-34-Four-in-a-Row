@@ -24,7 +24,6 @@
                                     <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="KCO-d7-9se">
                                         <rect key="frame" x="0.0" y="0.0" width="52" height="603"/>
                                         <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
-                                        <state key="normal" title="Button"/>
                                         <connections>
                                             <action selector="makeMove:" destination="BYZ-38-t0r" eventType="touchUpInside" id="654-zM-4SJ"/>
                                         </connections>
@@ -32,7 +31,6 @@
                                     <button opaque="NO" tag="1" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="WiW-Mg-7XS">
                                         <rect key="frame" x="54" y="0.0" width="51.5" height="603"/>
                                         <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
-                                        <state key="normal" title="Button"/>
                                         <connections>
                                             <action selector="makeMove:" destination="BYZ-38-t0r" eventType="touchUpInside" id="RRB-Iu-DJo"/>
                                         </connections>
@@ -40,7 +38,6 @@
                                     <button opaque="NO" tag="2" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="u1y-Bx-x0N">
                                         <rect key="frame" x="107.5" y="0.0" width="52" height="603"/>
                                         <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
-                                        <state key="normal" title="Button"/>
                                         <connections>
                                             <action selector="makeMove:" destination="BYZ-38-t0r" eventType="touchUpInside" id="6a6-hm-bgZ"/>
                                         </connections>
@@ -48,7 +45,6 @@
                                     <button opaque="NO" tag="3" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="8P7-MG-8Xi">
                                         <rect key="frame" x="161.5" y="0.0" width="52" height="603"/>
                                         <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
-                                        <state key="normal" title="Button"/>
                                         <connections>
                                             <action selector="makeMove:" destination="BYZ-38-t0r" eventType="touchUpInside" id="MS4-8I-Zmj"/>
                                         </connections>
@@ -56,7 +52,6 @@
                                     <button opaque="NO" tag="4" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="4fT-fO-9gP">
                                         <rect key="frame" x="215.5" y="0.0" width="52" height="603"/>
                                         <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
-                                        <state key="normal" title="Button"/>
                                         <connections>
                                             <action selector="makeMove:" destination="BYZ-38-t0r" eventType="touchUpInside" id="Ywz-41-ONq"/>
                                         </connections>
@@ -64,7 +59,6 @@
                                     <button opaque="NO" tag="5" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="XnF-l3-eZn">
                                         <rect key="frame" x="269.5" y="0.0" width="51.5" height="603"/>
                                         <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
-                                        <state key="normal" title="Button"/>
                                         <connections>
                                             <action selector="makeMove:" destination="BYZ-38-t0r" eventType="touchUpInside" id="qXX-QQ-QGX"/>
                                         </connections>
@@ -72,7 +66,6 @@
                                     <button opaque="NO" tag="6" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="qye-SD-z0J">
                                         <rect key="frame" x="323" y="0.0" width="52" height="603"/>
                                         <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
-                                        <state key="normal" title="Button"/>
                                         <connections>
                                             <action selector="makeMove:" destination="BYZ-38-t0r" eventType="touchUpInside" id="06b-F3-Nx0"/>
                                         </connections>
